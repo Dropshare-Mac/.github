@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img src="https://dropshare.app/img/dropshare-screenshot.jpg" alt="Dropshare — file sharing and upload for macOS" width="780"/>
+  <img src="https://dropshare.app/assets/img/product/annotate-new.png" alt="Dropshare — file sharing and upload for macOS" width="780"/>
 </p>
 
 ---
